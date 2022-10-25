@@ -3,57 +3,66 @@
     "id": 1,
     "course_name": "Basic Web Design",
     "image": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHdlYiUyMGRlc2lnbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-    "course_duration": "2 Months"
+    "course_duration": "2 Months",
+    "course_category": "Web Development"
   },
   {
     "id": 2,
     "course_name": "Advanced Web Design",
     "image": "https://images.unsplash.com/photo-1585247226801-bc613c441316?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHdlYiUyMGRlc2lnbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-    "course_duration": "4 Months"
+    "course_duration": "4 Months",
+    "course_category": "Web Development"
   },
   {
     "id": 3,
     "course_name": "Complete Web Development",
     "image": "https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHdlYiUyMGRldmVsb3BtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-    "course_duration": "6 Months"
+    "course_duration": "6 Months",
+    "course_category": "Web Development"
   },
   {
     "id": 4,
     "course_name": "MERN Stack Web Development",
     "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8d2Vic2l0ZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
 
-    "course_duration": "8 Months"
+    "course_duration": "8 Months",
+    "course_category": "Web Development"
   },
   {
     "id": 5,
     "course_name": "Java Software Development",
     "image": "https://media.istockphoto.com/photos/java-programming-concept-virtual-machine-on-server-room-background-picture-id1131109259?b=1&k=20&m=1131109259&s=170667a&w=0&h=tiLR2P25HCQO2XLw3GmbFyFOPQ0eDtcHz-Z8V-YvlA4=",
-    "course_duration": "10 Months"
+    "course_duration": "10 Months",
+    "course_category": "Software Development"
   },
   {
     "id": 6,
     "course_name": "Python Basic Course",
     "image": "https://media.istockphoto.com/photos/python-programming-language-concept-woman-developer-with-her-hand-picture-id1189210101?b=1&k=20&m=1189210101&s=170667a&w=0&h=JPPA3aVkd2O6csgAvZ1jO9QcS-KlaV25xGslHF1Rr7w=",
-    "course_duration": "2 Months"
+    "course_duration": "2 Months",
+    "course_category": "Programming"
   },
   {
     "id": 7,
     "course_name": "Game Development with C++",
     "image": "https://media.istockphoto.com/photos/gamification-and-game-development-concept-in-neon-style-picture-id1297107315?b=1&k=20&m=1297107315&s=170667a&w=0&h=Z6qmYbjyUQy3nQJ7faDSFHVmTgb8fRwDWBRf4zXbx0E=",
-    "course_duration": "2 Months"
+    "course_duration": "2 Months",
+    "course_category": "Game Development"
   },
   {
     "id": 8,
     "course_name": "Cyber Security",
     "image": "https://media.istockphoto.com/photos/padlock-icon-cyber-security-digital-data-network-protection-future-picture-id1348795158?b=1&k=20&m=1348795158&s=170667a&w=0&h=Sm7UktQ-oh063fvV7qrgucvh5cC5d25B6H-74IMCHM8=",
 
-    "course_duration": "10 Months"
+    "course_duration": "10 Months",
+    "course_category": "Cyber Security and Networking"
   },
   {
     "id": 9,
     "course_name": "Blockchain Development",
     "image": "https://media.istockphoto.com/photos/wireless-network-technology-smart-city-picture-id1218072939?b=1&k=20&m=1218072939&s=170667a&w=0&h=eapNz79-ndTGuUrfkY4D7wP0lhd1t_5jWYWikBTPUWA=",
 
-    "course_duration": "18 Months"
+    "course_duration": "18 Months",
+    "course_category": "Crypto"
   }
 ]
