@@ -5,6 +5,7 @@
     "image": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHdlYiUyMGRlc2lnbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
     "course_duration": "2 Months",
     "course_category": "Web Development",
+    "details": "Web design encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design; user interface design (UI design); authoring, including standardised code and proprietary software; user experience design (UX design); and search engine optimization. Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all.[1] The term Web Design is normally used to describe the design process relating to the front-end (client side) design of a website including writing markup. Web design partially overlaps web engineering in the broader scope of web development. Web designers are expected to have an awareness of usability and be up to date with web accessibility guidelines.",
     "category_id": 1
   },
   {
@@ -13,6 +14,7 @@
     "image": "https://images.unsplash.com/photo-1585247226801-bc613c441316?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHdlYiUyMGRlc2lnbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
     "course_duration": "4 Months",
     "course_category": "Web Development",
+    "details": "The Advanced web design is a version of web design. A web designer works with UI/UX design of a website",
     "category_id": 1
   },
   {
@@ -21,6 +23,7 @@
     "image": "https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHdlYiUyMGRldmVsb3BtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     "course_duration": "6 Months",
     "course_category": "Web Development",
+    "details": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include Web engineering, Web design, Web content development, client liaison, client-side/server-side scripting, Web server and network security configuration, and e-commerce development.",
     "category_id": 1
   },
   {
@@ -30,6 +33,7 @@
 
     "course_duration": "8 Months",
     "course_category": "Web Development",
+    "details": "MERN stack is a software stack that includes four open-source technologies: (MongoDB, Express.js, React, and Node.js). These components provide an end-to-end framework for building dynamic web sites and web applications.Among these technologies MongoDB is a database system, Node.js is a server-side runtime environment, Express.js is a web framework for Node.js and React is a client-side JavaScript library used for building user interfaces.Because all components of the MERN stack support programs that are written in JavaScript, MERN applications can be written in one programming language for both server-side and client-side execution environments.",
     "category_id": 1
   },
   {
@@ -37,6 +41,7 @@
     "course_name": "Java Software Development",
     "image": "https://media.istockphoto.com/photos/java-programming-concept-virtual-machine-on-server-room-background-picture-id1131109259?b=1&k=20&m=1131109259&s=170667a&w=0&h=tiLR2P25HCQO2XLw3GmbFyFOPQ0eDtcHz-Z8V-YvlA4=",
     "course_duration": "10 Months",
+    "details": "Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components. Software development involves writing and maintaining the source code, but in a broader sense, it includes all processes from the conception of the desired software through to the final manifestation of the software, typically in a planned and structured process.[1] Software development also includes research, new development, prototyping, modification, reuse, re-engineering, maintenance, or any other activities that result in software products.",
     "course_category": "Software Development",
     "category_id": 2
   },
@@ -46,6 +51,7 @@
     "image": "https://media.istockphoto.com/photos/python-programming-language-concept-woman-developer-with-her-hand-picture-id1189210101?b=1&k=20&m=1189210101&s=170667a&w=0&h=JPPA3aVkd2O6csgAvZ1jO9QcS-KlaV25xGslHF1Rr7w=",
     "course_duration": "2 Months",
     "course_category": "Programming",
+    "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a batteries included language due to its comprehensive standard library",
     "category_id": 3
   },
   {
@@ -54,24 +60,25 @@
     "image": "https://media.istockphoto.com/photos/gamification-and-game-development-concept-in-neon-style-picture-id1297107315?b=1&k=20&m=1297107315&s=170667a&w=0&h=Z6qmYbjyUQy3nQJ7faDSFHVmTgb8fRwDWBRf4zXbx0E=",
     "course_duration": "2 Months",
     "course_category": "Game Development",
+    "details": "Video game development is the process of developing a video game. The effort is undertaken by a developer, ranging from a single person to an international team dispersed across the globe. Development of traditional commercial PC and console games is normally funded by a publisher, and can take several years to reach completion. Indie games usually take less time and money and can be produced by individuals and smaller developers. The independent game industry has been on the rise, facilitated by the growth of accessible game development software such as Unity platform and Unreal Engine[1] and new online distribution systems such as Steam and Uplay, as well as the mobile game market for Android and iOS devices.",
     "category_id": 4
   },
   {
     "id": 8,
     "course_name": "Cyber Security",
     "image": "https://media.istockphoto.com/photos/padlock-icon-cyber-security-digital-data-network-protection-future-picture-id1348795158?b=1&k=20&m=1348795158&s=170667a&w=0&h=Sm7UktQ-oh063fvV7qrgucvh5cC5d25B6H-74IMCHM8=",
-
     "course_duration": "10 Months",
     "course_category": "Cyber Security and Networking",
+    "details": "Computer security, cybersecurity (cyber security), or information technology security (IT security) is the protection of computer systems and networks from information disclosure, theft of, or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.The field has become of significance due to the expanded reliance on computer systems, the Internet,[3] and wireless network standards such as Bluetooth and Wi-Fi, and due to the growth of smart devices, including smartphones, televisions, and the various devices that constitute the Internet of things (IoT). Cybersecurity is also one of the significant challenges in the contemporary world, due to the complexity of information systems, both in terms of political usage and technology. Its primary goal is to ensure the system's dependability, integrity, and data privacy.",
     "category_id": 5
   },
   {
     "id": 9,
     "course_name": "Blockchain Development",
     "image": "https://media.istockphoto.com/photos/wireless-network-technology-smart-city-picture-id1218072939?b=1&k=20&m=1218072939&s=170667a&w=0&h=eapNz79-ndTGuUrfkY4D7wP0lhd1t_5jWYWikBTPUWA=",
-
     "course_duration": "18 Months",
     "course_category": "Crypto",
+    "details": "A blockchain is a type of distributed ledger technology (DLT) that consists of growing list of records, called blocks, that are securely linked together using cryptography.[1][2][3][4] Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data (generally represented as a Merkle tree, where data nodes are represented by leaves). The timestamp proves that the transaction data existed when the block was created. Since each block contains information about the previous block, they effectively form a chain (compare linked list data structure), with each additional block linking to the ones before it. Consequently, blockchain transactions are irreversible in that, once they are recorded, the data in any given block cannot be altered retroactively without altering all subsequent blocks",
     "category_id": 6
   }
 ]

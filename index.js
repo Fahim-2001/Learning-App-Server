@@ -13,11 +13,11 @@ app.get("/courses", (req, res) => {
   res.send(courses);
 });
 
-// Particular API for each course
 app.get("/courses/:id", (req, res) => {
-  console.log(req.params.id);
   const id = req.params.id;
-  const selectedCourse = courses.find((n) => n.id === id);
+  // console.log(id);
+  console.log(courses);
+  const selectedCourse = courses.find((item) => item.id == id);
   console.log(selectedCourse);
   res.send(selectedCourse);
 });
